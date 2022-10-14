@@ -1,0 +1,4 @@
+node_modules/
+test.sqlite
+test.sqlite-shm
+test.sqlite-wal
